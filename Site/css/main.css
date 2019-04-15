@@ -1,0 +1,18 @@
+.cor_de_fundo{
+	background-color:#000000;
+}
+.cor_de_texto{
+	top: 50px;
+	width: 400px;
+	height:400px;
+	left: 50px;
+	color: #ffffff;
+}
+.quadrado2{
+	position: absolute;
+	top: 80px;
+	width: 400px;
+	height:400px;
+	left: 100px;
+	background-color:#000000;
+}
